@@ -1,4 +1,4 @@
-application: go-endpoints
+application: djmichilu
 version: tictactoe
 runtime: go
 threadsafe: true
